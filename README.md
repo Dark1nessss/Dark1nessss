@@ -1,4 +1,4 @@
-<h1 align="center"><IMG SRC="img/welcome.gif"></h1>
+<IMG SRC="img/welcome.gif">
 <p> <img src="https://komarev.com/ghpvc/?username=Dark1nessss&label=Profile%20views&color=0e75b6&style=flat" alt="Dark1nessss" /> </p>
 <p> <img alt="Stats" src="https://my-readme-five.vercel.app/api?username=Dark1nessss&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark1nessss&theme=dracula" /> </p>
